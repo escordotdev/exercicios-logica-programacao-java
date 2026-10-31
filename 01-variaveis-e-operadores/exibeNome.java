@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicio04 {
+public class exibeNome {
     static void main() {
         Scanner scanner = new Scanner(System.in);
 

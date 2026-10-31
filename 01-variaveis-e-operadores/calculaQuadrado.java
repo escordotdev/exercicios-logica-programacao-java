@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicio03 {
+public class calculaQuadrado {
     static void main() {
         Scanner scanner = new Scanner(System.in);
         // Leia um número no console e depois faça o cálculo do quadrado desse número

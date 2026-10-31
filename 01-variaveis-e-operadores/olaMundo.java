@@ -1,4 +1,4 @@
-public class exercicio01 {
+public class olaMundo {
     static void main() {
         System.out.println("Hello, world!");
 

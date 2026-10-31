@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class constantes {
+public class Constantes {
 
     static final Integer IDADE_MINIMA = 18;
 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exibeNome {
+public class ExibeNome {
     static void main() {
         Scanner scanner = new Scanner(System.in);
 

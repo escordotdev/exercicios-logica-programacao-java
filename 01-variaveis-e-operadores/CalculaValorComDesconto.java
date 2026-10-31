@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class calculaValorComDesconto {
+public class CalculaValorComDesconto {
 
     static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

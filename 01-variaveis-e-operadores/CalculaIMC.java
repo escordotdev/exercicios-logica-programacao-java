@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class calculaIMC {
+public class CalculaIMC {
     static void main() {   // fazer uma calc de IMC
         Scanner scanner = new Scanner(System.in);
 
